@@ -10,4 +10,4 @@ Utilizo em aula a plataforma  [Alura](httpss//www.alura.com.br)
 
 antonio.dias26@escola.pr.gov.br
 
-![] (https://tenor.com/pt-BR/view/asas-gif-22343504)
+![](https://tenor.com/pt-BR/view/asas-gif-22343504)
