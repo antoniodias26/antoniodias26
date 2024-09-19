@@ -1,16 +1,13 @@
-## Hi there 👋
+**Bem vindo ao meu perfil**
 
-<!--
-**antoniodias26/antoniodias26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Antonio Dias
 
-Here are some ideas to get you started:
+Sou aluno do componente curricular de pensamento computacional da rede estadual de educação do paraná
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Utilizo em aula a plataforma  (Alura) (httpss//www.alura.com.br)
+
+###você pode entrar comigo:
+
+antonio.dias26@escola.pr.gov.br
+
+![ ](https://tenor.com/pt-BR/view/asas-gif-22343504)
